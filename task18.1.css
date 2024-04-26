@@ -79,6 +79,7 @@
     box-sizing: border-box;
     background-image: url('../task18.1/img/5.jpg');
     background-position: center;
+    object-fit: contain;
 }
 
 .bloglist .content {
